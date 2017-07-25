@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppStore.Domain", "AppStore.Domain\AppStore.Domain.csproj", "{26AB56AA-80AE-4C6A-A7C8-358E9AB8D748}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppStore.WebUI", "AppStore.WebUI\AppStore.WebUI.csproj", "{4C8BB2A7-3393-4A3C-AEB9-6DAC8026B3FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppStore.UnitTests", "AppStore.UnitTests\AppStore.UnitTests.csproj", "{BAC9D3C2-5C51-4F23-8ACD-085771DC0325}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26AB56AA-80AE-4C6A-A7C8-358E9AB8D748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26AB56AA-80AE-4C6A-A7C8-358E9AB8D748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26AB56AA-80AE-4C6A-A7C8-358E9AB8D748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26AB56AA-80AE-4C6A-A7C8-358E9AB8D748}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C8BB2A7-3393-4A3C-AEB9-6DAC8026B3FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C8BB2A7-3393-4A3C-AEB9-6DAC8026B3FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C8BB2A7-3393-4A3C-AEB9-6DAC8026B3FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C8BB2A7-3393-4A3C-AEB9-6DAC8026B3FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAC9D3C2-5C51-4F23-8ACD-085771DC0325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAC9D3C2-5C51-4F23-8ACD-085771DC0325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAC9D3C2-5C51-4F23-8ACD-085771DC0325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAC9D3C2-5C51-4F23-8ACD-085771DC0325}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

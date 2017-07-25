@@ -1,0 +1,10 @@
+G:\study\AppStore\AppStore.Domain\bin\Debug\AppStore.Domain.dll
+G:\study\AppStore\AppStore.Domain\bin\Debug\AppStore.Domain.pdb
+G:\study\AppStore\AppStore.Domain\obj\Debug\AppStore.Domain.csprojResolveAssemblyReference.cache
+G:\study\AppStore\AppStore.Domain\obj\Debug\AppStore.Domain.dll
+G:\study\AppStore\AppStore.Domain\obj\Debug\AppStore.Domain.pdb
+G:\study\AppStore\AppStore.Domain\bin\Debug\AppStore.Domain.dll.config
+G:\study\AppStore\AppStore.Domain\bin\Debug\EntityFramework.dll
+G:\study\AppStore\AppStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+G:\study\AppStore\AppStore.Domain\bin\Debug\EntityFramework.xml
+G:\study\AppStore\AppStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
